@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Emotion Detection</string>
+
+    <array name="List">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Angry</item>
+
+    </array>
+
+</resources>

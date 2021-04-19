@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "285752146595",
+    "firebase_url": "https://wecare1-85c82-default-rtdb.firebaseio.com",
+    "project_id": "wecare1-85c82",
+    "storage_bucket": "wecare1-85c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285752146595:android:f95a13f521ebc9c4285d16",
+        "android_client_info": {
+          "package_name": "com.example.databaseforproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285752146595-l0v4cdag98khv15d2krr758mli9tn91h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjeL6yLHpuMLI2fv3cY0Xz-dCJ2cLCf2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285752146595-l0v4cdag98khv15d2krr758mli9tn91h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285752146595:android:188cb48426452f7a285d16",
+        "android_client_info": {
+          "package_name": "com.example.emotiondetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285752146595-l0v4cdag98khv15d2krr758mli9tn91h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjeL6yLHpuMLI2fv3cY0Xz-dCJ2cLCf2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285752146595-l0v4cdag98khv15d2krr758mli9tn91h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
